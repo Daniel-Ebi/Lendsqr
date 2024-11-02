@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    /* Projects */
+    "target": "es2016",    
+    /* Add this line to enable JSX support */                              
+    "jsx": "react-jsx",
+    /* Modules */
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
